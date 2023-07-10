@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hola mundo
+`Estudiante de Desarrollo`
+> **Al menos lo intento**:bowtie:
 <!--
 **iDankest/iDankest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
