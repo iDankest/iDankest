@@ -14,7 +14,7 @@ Mi enfoque es simple: aprender paso a paso, resolver problemas y crear solucione
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/docker/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/docker/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-  <img alt="github-snake" src="ist/docker/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9" />
+  <img alt="github-snake" src="dist/docker/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9" />
 </picture>
 
 ## 🛠️ Habilidades actuales:
