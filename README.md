@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Kilian]
+# 👋 ¡Hola! Soy Kilian
 
 **Estudiante en desarrollo web y entusiasta del eCommerce**, actualmente aprendiendo y explorando el mundo del código. Comencé mi camino en el desarrollo web en el verano de 2023, y desde entonces no he parado de aprender nuevas tecnologías y trabajar en proyectos que me desafían a mejorar.
 
