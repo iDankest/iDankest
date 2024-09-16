@@ -41,6 +41,7 @@ Desde que empecé en 2023, he estado trabajando en proyectos pequeños que me pe
 ## 📫 ¿Quieres saber más o colaborar?
 - Puedes enviarme un correo a: [kilijes@gmail.com](mailto:kilijes@gmail.com)
 - ¡Me encantaría escuchar consejos, ideas o colaborar en proyectos interesantes!
+![Snake GIF](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)
 
 ---
 
