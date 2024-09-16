@@ -41,7 +41,7 @@ Desde que empecé en 2023, he estado trabajando en proyectos pequeños que me pe
 ## 📫 ¿Quieres saber más o colaborar?
 - Puedes enviarme un correo a: [kilijes@gmail.com](mailto:kilijes@gmail.com)
 - ¡Me encantaría escuchar consejos, ideas o colaborar en proyectos interesantes!
-
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
 ---
 
 > *"Comencé en 2023, pero este es solo el comienzo. Aprender a programar es un viaje sin fin, y estoy emocionado por lo que viene."*
