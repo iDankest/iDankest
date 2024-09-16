@@ -9,6 +9,14 @@ Mi enfoque es simple: aprender paso a paso, resolver problemas y crear solucione
 
 ⚡ **Siempre curioso y en constante crecimiento.**
 
+## 🐍 Snake en mi cuadrícula de contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🛠️ Habilidades actuales:
 Estas son las tecnologías que he explorado y con las que he trabajado desde que comencé mi camino en 2023:
 
@@ -41,11 +49,7 @@ Desde que empecé en 2023, he estado trabajando en proyectos pequeños que me pe
 ## 📫 ¿Quieres saber más o colaborar?
 - Puedes enviarme un correo a: [kilijes@gmail.com](mailto:kilijes@gmail.com)
 - ¡Me encantaría escuchar consejos, ideas o colaborar en proyectos interesantes!
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+
 ---
 
 > *"Comencé en 2023, pero este es solo el comienzo. Aprender a programar es un viaje sin fin, y estoy emocionado por lo que viene."*
