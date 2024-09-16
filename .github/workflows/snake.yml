@@ -1,34 +1,27 @@
-name: Generate Snake
-
-# Controla cuando se ejecuta la acción
+name: GenerateSnake
 on:
-  # Genera la imagen cada día a medianoche (UTC)
-  schedule:
-    - cron: "0 0 * * *"
-  # Permite ejecutarla manualmente
   workflow_dispatch:
+  schedule:
+    - cron: "0 15 * * *"
 
-# Permite ejecutar este workflow en Ubuntu
 jobs:
-  build:
+  update-repository:
+    name: Update this repo's README with repository_owner
     runs-on: ubuntu-latest
-
     steps:
-      # Descarga el repositorio
-      - uses: actions/checkout@v2
-
-      # Configura Platane/snk para generar el SVG de la serpiente
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      # Sube los resultados para que puedas usarlos en tu README
-      - name: Upload Snake
-        uses: actions/upload-artifact@v2
+            ./img/snake.svg
+            ./img/snake_dark.svg?palette=github-dark
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9.1.4
         with:
-          name: snake-game
-          path: dist/github-snake.svg
+          author_name: 'GitHub Actions'
+          author_email: 'action@github.com'
+          message: ':rocket: Update snake'
