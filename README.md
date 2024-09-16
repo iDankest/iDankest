@@ -41,8 +41,11 @@ Desde que empecé en 2023, he estado trabajando en proyectos pequeños que me pe
 ## 📫 ¿Quieres saber más o colaborar?
 - Puedes enviarme un correo a: [kilijes@gmail.com](mailto:kilijes@gmail.com)
 - ¡Me encantaría escuchar consejos, ideas o colaborar en proyectos interesantes!
-![Snake GIF](https://platane.me/snk/)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 > *"Comencé en 2023, pero este es solo el comienzo. Aprender a programar es un viaje sin fin, y estoy emocionado por lo que viene."*
