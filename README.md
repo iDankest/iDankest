@@ -11,11 +11,8 @@ Mi enfoque es simple: aprender paso a paso, resolver problemas y crear solucione
 
 ## 🐍 Snake en mi cuadrícula de contribuciones
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iDankest/iDankest/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iDankest/iDankest/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iDankest/iDankest/output/github-contribution-grid-snake.svg" />
-</picture>
+![github-contribution-grid-snake](https://raw.githubusercontent.com/iDankest/iDankest/main/img/snake.svg#gh-light-mode-only)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/iDankest/iDankest/main/img/snake_dark.svg#gh-dark-mode-only)
 
 
 ## 🛠️ Habilidades actuales:
