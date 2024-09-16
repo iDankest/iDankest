@@ -12,9 +12,9 @@ Mi enfoque es simple: aprender paso a paso, resolver problemas y crear solucione
 ## 🐍 Snake en mi cuadrícula de contribuciones
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="docker/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github-snake" src="only-svg/github-contribution-grid-snake.svg" />
 </picture>
 
 ## 🛠️ Habilidades actuales:
