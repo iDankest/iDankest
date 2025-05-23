@@ -20,7 +20,6 @@ Estas son las tecnologías que he explorado y con las que he trabajado desde que
 
 - **PHP**: Empezando a entender cómo funciona el backend.
 - **JavaScript**: Experimentando con el frontend dinámico.
-- **Python**: Uso básico para pequeños scripts y automatizaciones.
 - **HTML & CSS**: Construyendo interfaces web simples pero efectivas.
 - **MySQL**: Introduciéndome al manejo de bases de datos relacionales.
 
