@@ -44,7 +44,7 @@ Desde que empecé en 2023, he estado trabajando en proyectos pequeños que me pe
 - Aunque llevo poco más de un año en este mundo, ¡estoy disfrutando cada paso del proceso! 😄
 
 ## 📫 ¿Quieres saber más o colaborar?
-- Puedes enviarme un correo a: [kilijes@gmail.com](mailto:kilijes@gmail.com)
+- Puedes enviarme un correo a: [kilianjs@gmail.com](mailto:kilianjs@gmail.com)
 - ¡Me encantaría escuchar consejos, ideas o colaborar en proyectos interesantes!
 
 ---
