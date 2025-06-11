@@ -41,8 +41,9 @@
 
 ---
 
+<div align="center">
 ## [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11158627011&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=11158627011&redirect=true)
-
+</div>
 ## Contacto:
 
 <div align="center">
