@@ -41,7 +41,7 @@
 
 ---
 
-<div style="display:flex; ">
+<div style="display: flex; justify-content: space-between; align-items: center;">
 <h3 align="left">Musica ❤️</h3>
 
 <div>
