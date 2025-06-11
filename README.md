@@ -1,5 +1,6 @@
+
 <h1>
-  <span style="display: inline-block; animation: wave-animation 2.5s infinite; transform-origin: 70% 70%;">👋</span> ¡Hola! Soy Kilian
+  <span style="display: inline-block; animation: wave-animation 2.5s infinite; transform-origin: 70% 70%;"> 👋 </span> ¡Hola! Soy Kilian
 </h1>
 
 <style>
@@ -14,6 +15,7 @@
     100% { transform: rotate(0deg); }
   }
 </style>
+
 
 ![Header](./img/github-header-image.png)
 
