@@ -1,4 +1,19 @@
-# 👋 ¡Hola! Soy Kilian
+<h1>
+  <span style="display: inline-block; animation: wave-animation 2.5s infinite; transform-origin: 70% 70%;">👋</span> ¡Hola! Soy Kilian
+</h1>
+
+<style>
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); } /* Vuelve a la posición original */
+    100% { transform: rotate(0deg); }
+  }
+</style>
 
 ![Header](./img/github-header-image.png)
 
