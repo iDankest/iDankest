@@ -1,5 +1,5 @@
 
-![Mano saludando](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzgxcnNpZnlsMzE4ZzdzOHBpaWZlMzRlcGNnN2c0OTRsc2U4Mm1iciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BBGPVp3sg0bbJAloC6/giphy.gif) ¡Hola! Soy Kilian
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzgxcnNpZnlsMzE4ZzdzOHBpaWZlMzRlcGNnN2c0OTRsc2U4Mm1iciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BBGPVp3sg0bbJAloC6/giphy.gif" alt="Mano saludando" style="width: 30px; height: 30px; vertical-align: middle;"> ¡Hola! Soy Kilian
 
 ![Header](./img/github-header-image.png)
 
