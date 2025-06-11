@@ -43,6 +43,9 @@
 
 ## [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11158627011&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=11158627011&redirect=true)
 
+<div style="text-align: center;">
+  [![spotify-github-profile](http://googleusercontent.com/image_content/AID0P3aXU6-L7WkHhN94r4XnFf67l21L0d2v60iV1l83mXW9jZ4-yQ)](https://spotify-github-profile.kittinanx.com/api/view?uid=11158627011&redirect=true)
+</div>
 ## Contacto:
 
 <div align="center">
