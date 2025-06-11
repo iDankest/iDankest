@@ -41,9 +41,8 @@
 
 ---
 
-<div style="text-align: center;">
-  [![Mi Perfil de Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true)
-</div>
+[![Mi Perfil de Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true)
+
 ## Contacto:
 
 <div align="center">
