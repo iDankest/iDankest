@@ -1,21 +1,5 @@
 
-<h1>
-  <span style="display: inline-block; animation: wave-animation 2.5s infinite; transform-origin: 70% 70%;"> 👋 </span> ¡Hola! Soy Kilian
-</h1>
-
-<style>
-  @keyframes wave-animation {
-    0% { transform: rotate(0deg); }
-    10% { transform: rotate(14deg); }
-    20% { transform: rotate(-8deg); }
-    30% { transform: rotate(14deg); }
-    40% { transform: rotate(-4deg); }
-    50% { transform: rotate(10deg); }
-    60% { transform: rotate(0deg); } /* Vuelve a la posición original */
-    100% { transform: rotate(0deg); }
-  }
-</style>
-
+![Saludo con la mano]{https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzgxcnNpZnlsMzE4ZzdzOHBpaWZlMzRlcGNnN2c0OTRsc2U4Mm1iciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BBGPVp3sg0bbJAloC6/giphy.gif} ¡Hola soy Kilian!
 
 ![Header](./img/github-header-image.png)
 
