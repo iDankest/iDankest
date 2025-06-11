@@ -44,7 +44,7 @@
 ---
 
 <div align="center">
-  <table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
+  <table style="width: 100%; border-collapse: collapse; margin: 0 auto; border:none;">
     <tr>
       <td style="width: 50%; text-align: right; vertical-align: middle; padding: 0;">
         <h3>Musica ❤️</h3>
