@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzgxcnNpZnlsMzE4ZzdzOHBpaWZlMzRlcGNnN2c0OTRsc2U4Mm1iciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BBGPVp3sg0bbJAloC6/giphy.gif" alt="Mano saludando" style="width: 30px; height: 30px; vertical-align: middle;"> ¡Hola! Soy Kilian
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExano1eWZlMmlpNzR3b2s3b3JsaDR3Y2ppaWliZHlyMXNvcW0xOW94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" alt="Mano saludando" style="width: 30px; height: 30px; vertical-align: middle;"> ¡Hola! Soy Kilian
 </div>
 
 ![Header](./img/github-header-image.png)
@@ -13,48 +13,22 @@
 
 ## 🛠️ Habilidades actuales:
 
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-</a>
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</a>
-<a href="https://wordpress.org/" target="_blank">
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
-</a>
-<a href="https://symfony.com/" target="_blank">
-  <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🌱 Actualmente aprendiendo:
 
-<a href="https://astro.build/" target="_blank">
-  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-</a>
-<a href="https://vuejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-</a>
-<a href="https://vuetifyjs.com/en/" target="_blank">
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt="Vuetify" />
-</a>
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 
 ## 🤔 ¿Sabías que...?
 
@@ -69,11 +43,19 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <h3 style="margin: 0;">Musica ❤️</h3>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false" alt="Mi Perfil de Spotify" style="height: auto; max-width: 100%;" />
-  </a>
+<div style="text-align: center;">
+  <table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
+    <tr>
+      <td style="width: 50%; text-align: right; vertical-align: middle; padding: 0;">
+        <h3>Musica ❤️</h3>
+      </td>
+      <td style="width: 50%; text-align: left; vertical-align: middle; padding: 0;">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false" alt="Mi Perfil de Spotify" style="height: auto; max-width: 100%;" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div style="text-align: center;">
