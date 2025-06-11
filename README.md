@@ -1,4 +1,3 @@
-
 <div style="text-align: center;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzgxcnNpZnlsMzE4ZzdzOHBpaWZlMzRlcGNnN2c0OTRsc2U4Mm1iciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BBGPVp3sg0bbJAloC6/giphy.gif" alt="Mano saludando" style="width: 30px; height: 30px; vertical-align: middle;"> ¡Hola! Soy Kilian
 </div>
@@ -44,22 +43,27 @@
 
 ---
 
-<div align="center">
-  <h3 >Musica ❤️</h3>
-
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false" alt="Mi Perfil de Spotify" style="height: auto; max-width: 100%;" />
-  </a>
-  
+<div style="text-align: center;">
+  <table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
+    <tr>
+      <td style="width: 50%; text-align: right; vertical-align: middle; padding: 0;">
+        <h3>Musica ❤️</h3>
+      </td>
+      <td style="width: 50%; text-align: left; vertical-align: middle; padding: 0;">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false" alt="Mi Perfil de Spotify" style="height: auto; max-width: 100%;" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## Contacto:
-
-<div align="center">
-<a href="https://github.com/idankest" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/dankest" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<div style="text-align: center;">
+  ## Contacto:
+  <a href="https://github.com/idankest" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/dankest" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
 </div>
