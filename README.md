@@ -42,7 +42,7 @@
 ---
 
 <div>
-  <h3 align="left">Musica ❤️</h3>
+  <h3 align="center">Musica ❤️</h3>
   <div align="right">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false" alt="Mi Perfil de Spotify" style="height: auto; max-width: 100%;" />
