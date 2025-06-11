@@ -43,7 +43,7 @@
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
   <table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
     <tr>
       <td style="width: 50%; text-align: right; vertical-align: middle; padding: 0;">
