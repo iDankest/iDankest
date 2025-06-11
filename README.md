@@ -42,16 +42,16 @@
 ---
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <h3>
-    Mi musica <3
 
-  </h3>
-  <a>
+<h3> 
+Mi musica <3
 
-    [![Mi Perfil de Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true)
+</h3>
+<a>
 
-  </a>
-</div>
+[![Mi Perfil de Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true)
+
+</a>
 
 </div>
 
