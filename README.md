@@ -41,7 +41,7 @@
 
 ---
 
-<div>
+<div style="display:flex; ">
 <h3 align="left">Musica ❤️</h3>
 
 
