@@ -41,7 +41,7 @@
 
 ---
 
-<div sytle="display: flex;">
+<div style="display: flex;">
 
 <h3> 
 Mi musica <3
