@@ -41,7 +41,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 <h3> 
 Mi musica <3
