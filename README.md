@@ -1,13 +1,7 @@
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; margin: 0 auto;">
-  <tr>
-    <td valign="middle" style="border: none; padding-right: 10px;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExano1eWZlMmlpNzR3b2s3b3JsaDR3Y2ppaWliZHlyMXNvcW0xOW94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" alt="Mano saludando" style="width: 50px; height: 50px;">
-    </td>
-    <td valign="middle" style="border: none;">
-      <h1 style="margin: 0;">¡Hola! Soy Kilian</h1>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExano1eWZlMmlpNzR3b2s3b3JsaDR3Y2ppaWliZHlyMXNvcW0xOW94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" alt="Mano saludando" style="width: 50px; height: 50px; vertical-align: middle;">
+  <span style="font-size: 1.5em; font-weight: bold;">¡Hola! Soy Kilian</span>
+</p>
 
 ![Header](./img/github-header-image.png)
 
@@ -54,19 +48,15 @@
 
 ---
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%;">
-    <tr>
-      <td width="50%" valign="middle" align="right" style="border: none; padding-right: 10px;">
-        <h3 style="margin: 0;">Musica ❤️</h3>
-      </td>
-      <td width="50%" valign="middle" align="left" style="border: none; padding: 0;">
-        <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false" alt="Mi Perfil de Spotify" style="max-width: 100%; display: block;" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; align-items: center; justify-content: center; width: 100%;">
+  <div style="flex-basis: 50%; text-align: right; padding-right: 15px;">
+    <h3 style="margin: 0;">Musica ❤️</h3>
+  </div>
+  <div style="flex-basis: 50%; text-align: left;">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false" alt="Mi Perfil de Spotify" style="max-width: 100%; display: block;" />
+    </a>
+  </div>
 </div>
 
 ## Contacto:
