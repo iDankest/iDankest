@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExano1eWZlMmlpNzR3b2s3b3JsaDR3Y2ppaWliZHlyMXNvcW0xOW94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" alt="Mano saludando" width="50" height="50">
   ¡Hola! Soy Kilian
 </div>
