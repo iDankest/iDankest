@@ -58,7 +58,7 @@
 <div align="center">
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td align="right" valign="middle">
+      <td align="right" valign="">
         <h6>Musica ❤️</h6>
       </td>
       <td align="left" valign="middle">
