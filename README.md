@@ -1,5 +1,6 @@
-<div style="text-align: center;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExano1eWZlMmlpNzR3b2s3b3JsaDR3Y2ppaWliZHlyMXNvcW0xOW94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" alt="Mano saludando" style="width: 50px; height: 50px; vertical-align: middle;"> ¡Hola! Soy Kilian
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExano1eWZlMmlpNzR3b2s3b3JsaDR3Y2ppaWliZHlyMXNvcW0xOW94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" alt="Mano saludando" style="width: 50px; height: 50px;">
+  <span>¡Hola! Soy Kilian</span>
 </div>
 
 ![Header](./img/github-header-image.png)
@@ -44,14 +45,14 @@
 ---
 
 <div align="center">
-  <table style="width: 100%; border-collapse: collapse; margin: 0 auto; border:none;">
+  <table style="width: 100%; border-collapse: collapse; margin: 0 auto; border: none;">
     <tr>
-      <td style="width: 50%; text-align: right; vertical-align: middle; padding: 0;">
+      <td style="width: 50%; text-align: right; vertical-align: middle; padding: 0 10px 0 0; border: none;">
         <h3>Musica ❤️</h3>
       </td>
-      <td style="width: 50%; text-align: left; vertical-align: middle; padding: 0;">
+      <td style="width: 50%; text-align: left; vertical-align: middle; padding: 0; border: none;">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false" alt="Mi Perfil de Spotify" style="height: auto; max-width: 100%;" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false" alt="Mi Perfil de Spotify" style="height: auto; max-width: 100%; display: block;" />
         </a>
       </td>
     </tr>
