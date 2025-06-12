@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExano1eWZlMmlpNzR3b2s3b3JsaDR3Y2ppaWliZHlyMXNvcW0xOW94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" alt="Mano saludando" style="width: 50px; height: 50px; vertical-align: middle;">
-  <span style="font-size: 1.5em; font-weight: bold;">¡Hola! Soy Kilian</span>
-</p>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExano1eWZlMmlpNzR3b2s3b3JsaDR3Y2ppaWliZHlyMXNvcW0xOW94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" alt="Mano saludando" width="50" height="50">
+  ¡Hola! Soy Kilian
+</div>
 
 ![Header](./img/github-header-image.png)
 
@@ -14,7 +14,7 @@
 
 ## 🛠️ Habilidades actuales:
 
-<p align="left">
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
@@ -29,7 +29,7 @@
 
 ## 🌱 Actualmente aprendiendo:
 
-<p align="left">
+<p>
   <a href="https://astro.build/" target="_blank"><img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"></a>
   <a href="https://vuetifyjs.com/" target="_blank"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt="Vuetify"></a>
@@ -48,25 +48,28 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; width: 100%;">
-  <div style="flex-basis: 50%; text-align: right; padding-right: 15px;">
-    <h3 style="margin: 0;">Musica ❤️</h3>
-  </div>
-  <div style="flex-basis: 50%; text-align: left;">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false" alt="Mi Perfil de Spotify" style="max-width: 100%; display: block;" />
-    </a>
-  </div>
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td align="right" valign="middle">
+        <h3>Musica ❤️</h3>
+      </td>
+      <td align="left" valign="middle">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=636085&bar_color_cover=false" alt="Mi Perfil de Spotify" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Contacto:
 
-<div style="text-align: center;">
-
+<div align="center">
   <a href="https://github.com/idankest" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://linkedin.com/in/dankest" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </div>
