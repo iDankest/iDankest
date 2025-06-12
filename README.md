@@ -42,11 +42,12 @@
 
 ---
 
-## 🤔 ¿Sabías que...?
+### 🤔 ¿Sabías que...?
 
-- Para mí, la programación es como resolver acertijos: cuanto más difícil es el problema, más satisfactoria es la solución.
-- Mi objetivo es, algún día, lanzar una plataforma de **eCommerce** que sea intuitiva y escalable.
-- Aunque llevo poco más de dos año en este mundo, ¡estoy disfrutando cada paso del proceso! 😄
+* Concibo la programación como un gran acertijo. Disfruto desentrañando problemas hasta dar con la solución más elegante y efectiva.
+* Mi verdadera pasión es el **frontend**. Me fascina dar vida a ideas creando interfaces que no solo sean visualmente atractivas, sino también intuitivas y memorables para el usuario.
+* Aunque llevo poco más de dos años en este mundo, ¡estoy disfrutando cada paso del proceso de aprendizaje! 😊
+
 
 ## 📫 ¿Quieres saber más o colaborar?
 
