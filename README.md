@@ -42,8 +42,8 @@
 
 ---
 
-### 🤔 ¿Sabías que...?
---
+## 🤔 ¿Sabías que...?
+
 
 * Concibo la programación como un gran acertijo. Disfruto desentrañando problemas hasta dar con la solución más elegante y efectiva.
 * Mi verdadera pasión es el **frontend**. Me fascina dar vida a ideas creando interfaces que no solo sean visualmente atractivas, sino también intuitivas y memorables para el usuario.
