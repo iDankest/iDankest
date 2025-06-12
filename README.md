@@ -59,7 +59,7 @@
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td align="right" valign="middle">
-        <h6>Musica❤️</h6>
+        <h6>Música</h6>
       </td>
       <td align="left" valign="middle">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11158627011&redirect=true">
