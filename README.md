@@ -3,7 +3,7 @@
   ¡Hola! Soy Kilian
 </div>
 
-<br>
+<hr>
 
 ![Header](./img/github-header-image.png)
 
