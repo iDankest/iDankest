@@ -9,10 +9,10 @@
 
 ⚡ **Siempre curioso y en constante crecimiento.**
 
-[👨🏻‍💻 Mi Portfolio](https://idankest-dev.netlify.app/)
+[👨🏻‍💻 <Mi Portfolio> ⬅️](https://idankest-dev.netlify.app/)
 
 
-## 🐍 contribuciones
+## 🐍 Contribuciones
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/iDankest/iDankest/main/img/snake.svg#gh-light-mode-only)
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/iDankest/iDankest/main/img/snake_dark.svg#gh-dark-mode-only)
