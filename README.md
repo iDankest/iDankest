@@ -3,8 +3,6 @@
   ¡Hola! Soy Kilian</h2 >
 </div>
 
-<hr>
-
 ![Header](./img/github-header-image.png)
 
 ⚡ **Siempre curioso y en constante crecimiento.**
