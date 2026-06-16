@@ -7,7 +7,7 @@
 
 ⚡ **Siempre curioso y en constante crecimiento.**
 
-[👨🏻‍💻 Mi Portfolio ⬅️](https://idankest-dev.netlify.app/)
+[👨🏻‍💻 Mi Portfolio ⬅️](https://idankest.dev/)
 
 
 ## 🐍 Contribuciones
